@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "LEKAI QIAN"
+title: "about"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-<span style="color: #003366; font-weight: bold; font-size: 0.9em;">About Me</span>
+<span style="color: #003366; font-weight: bold; font-size: 0.7em;">About Me</span>
 ======
 I am currently an undergraduate student studying Artificial Intelligence at the School of Future Technology, South China University of Technology. My research interests lie at the intersection of computer vision, natural language processing, and music information retrieval.
 
-<span style="color: #003366; font-weight: bold; font-size: 0.9em;">Research Focus: Symbolic Music Representation Learning</span>
+<span style="color: #003366; font-weight: bold; font-size: 0.7em;">Research Focus: Symbolic Music Representation Learning</span>
 ======
 **How can we effectively represent symbolic music?** This question is challenging due to the dual structural nature of the data—it can be viewed as images (Piano Roll) while also exhibiting sequential characteristics (temporal notes).
 
