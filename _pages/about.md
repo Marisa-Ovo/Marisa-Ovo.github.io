@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Academic Homepage"
+title: "LEKAI QIAN"
 author_profile: true
 redirect_from:
   - /about/
