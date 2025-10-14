@@ -9,7 +9,9 @@ redirect_from:
 
 <span style="color: #003366; font-weight: bold; font-size: 0.7em;">About Me</span>
 ======
-I am currently an undergraduate student studying Artificial Intelligence at the School of Future Technology, South China University of Technology, advised by [Prof. Qi Liu](https://drliuqi.github.io/) on music generation and machine learning. I also work closely with [Music X Lab](https://www.musicxlab.com/#/), where I am guided by [Prof. Gus Xia](https://www.musicxlab.com/members/gus/) and [Dr. Ziyu Wang](https://zzwaang.github.io/).
+I am currently an undergraduate student studying Artificial Intelligence at the School of Future Technology, South China University of Technology. I am advised by [Prof. Qi Liu](https://drliuqi.github.io/) on music generation and machine learning.
+
+I also work closely with [Music X Lab](https://www.musicxlab.com/#/), where I am guided by [Prof. Gus Xia](https://www.musicxlab.com/members/gus/) and [Dr. Ziyu Wang](https://zzwaang.github.io/).
 
 <span style="color: #003366; font-weight: bold; font-size: 0.7em;">Research Interest</span>
 ======
