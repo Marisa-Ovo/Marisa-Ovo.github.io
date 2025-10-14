@@ -10,7 +10,7 @@
 locale                   : "GuangZhou"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "LEKAI QIAN"
-title_separator          : "-"
+title_separator          : ""
 name                     : &name "Lekai Qian"
 description              : "Lekai Qian's Academic Homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://marisa-ovo.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
