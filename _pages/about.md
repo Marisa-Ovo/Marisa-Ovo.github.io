@@ -19,4 +19,4 @@ The primary goal of my research is to develop effective representations for symb
 
 To address this challenge, I integrate methods from computer vision and natural language processing to design a novel symbolic music representation. Currently, my method has achieved promising results on piano datasets, demonstrating the potential of this cross-modal strategy. I aim to refine this approach and validate it across diverse instruments and applications, working toward a state-of-the-art representation framework for symbolic music.
 
-Our work on this approach has been submitted to ICASSP 2026. Feel free to check out our [demo page](https://akualubi.github.io/PIANOROLL-EVENT/) for more details!
+Our work on this approach has been accepted by ICASSP 2026. Feel free to check out our [paper](https://arxiv.org/abs/2601.19951) and [demo page](https://akualubi.github.io/PIANOROLL-EVENT/) for more details!
