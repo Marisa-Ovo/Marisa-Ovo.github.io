@@ -11,7 +11,7 @@ citation: 'Lekai Qian, Haoyu Gu, Dehan Li, Boyu Cao, Qi Liu. (2026). &quot;Piano
 ---
 
 <div align="center">
-  <img src="/images/paper_icassp.png" alt="Pianoroll-Event Framework" style="width: 100%; max-width: 900px;">
+  <img src="{{ site.baseurl }}/images/paper_icassp.png" alt="Pianoroll-Event Framework" style="width: 100%; max-width: 900px;">
   <p><em>Overview of the Pianoroll-Event encoding pipeline: from pianoroll to compressed event sequence.</em></p>
 </div>
 
